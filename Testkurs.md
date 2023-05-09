@@ -24,5 +24,3 @@ Warum wird im Leistungs- und Spitzensportbereich die Nicht-Wurfarm-Schulter eben
     [[ ]] um die Datenmenge zu vergrößern
     [[ ]] weil der Sportler zur Verfügung steht
     [[x]] als Referenzschulter um Anpassungen der Wurf-Arm-Schulter objektivieren zu können   
-
-## Test 
