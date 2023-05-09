@@ -26,5 +26,3 @@ Warum wird im Leistungs- und Spitzensportbereich die Nicht-Wurfarm-Schulter eben
     [[x]] als Referenzschulter um Anpassungen der Wurf-Arm-Schulter objektivieren zu können   
 
 ## Test 
-
-sdfsdf
