@@ -1,6 +1,8 @@
 # Isokinetik
 
-## Frage 1 - Auswertung eines isokinetischen Tests
+## Frage 1
+_Auswertung eines isokinetischen Tests_
+
 Welche Phasen des Bewegungsbereichs sollten <u>nicht</u> zur Auswertung eines isokinetischen Tests genutzt werden?
 *Bitte wählen Sie nur die richtigen Antworten aus!*
 
@@ -9,7 +11,9 @@ Welche Phasen des Bewegungsbereichs sollten <u>nicht</u> zur Auswertung eines is
     [[x]] die Bremsphase
     [[x]] der gesamte erfasste Bereich
 
-## Frage 2 - Rumpfrotationstest - Einheiten von biomechanischen Größen
+## Frage 2
+_Rumpfrotationstest - Einheiten von biomechanischen Größen_
+
 Welche Einheiten haben die biomechanischen Größen, die beim isokinetischen Rumpfrotationskrafttest durch das Kraftvermögen des Sportlers bzw. der Sportlerin aktiv beeinflusst werden können? *Bitte wählen Sie nur die richtigen Antworten aus!*
 
     [[x]] Watt
@@ -17,7 +21,9 @@ Welche Einheiten haben die biomechanischen Größen, die beim isokinetischen Rum
     [[x]] Newtonmeter pro KIlogramm Körpermasse
     [[ ]] Grad pro Sekunde
 
-## Frage 3 - Testen der Nicht-Wurfarm-Schulter
+## Frage 3
+_Testen der Nicht-Wurfarm-Schulter_
+
 Warum wird im Leistungs- und Spitzensportbereich die Nicht-Wurfarm-Schulter ebenfalls getestet? *Bitte wählen Sie nur die richtigen Antworten aus!*
 
     [[ ]] für den Fall, dass die Wurfarmschulter zukünftig wechseln könnte
